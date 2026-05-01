@@ -1,4 +1,4 @@
-# Pedro Landim
+# Pedro Hemrivk Araujo Landim
 > Estudante de Engenharia de software da Universidade Cidade de São Paulo (UNICID)
  
 ---

@@ -57,6 +57,7 @@ Atualmente cursando o 1º semestre período de engenharia de software na UNICID.
 | **Traduzindo Lógica para Python Turma** | O processo de Engenharia de Soluções Lógicas demonstrado nos seus arquivos reflete a transição entre o pensamento abstrato (algoritmos e fluxogramas) e a implementação técnica (Python). | [Ver Projeto](./sistema-turma/) 
 | **Traduzindo Lógica para Python Clima** | O processo de Engenharia de Soluções Lógicas demonstrado nos seus arquivos reflete a transição entre o pensamento abstrato (algoritmos e fluxogramas) e a implementação técnica (Python). | [Ver Projeto](./analisar-clima/)
 | **Desenhando Emojis com Dados** | apresento uma proposta focada especificamente nessa habilidade de converter números e matrizes em representações visuais. | [Ver Projeto](./emoji/) 
+| **Sistema de Auditoria de Recursos Corporativos** | O projeto Engenharia de Soluções Lógicas demonstra a transição entre o planejamento abstrato e a implementação técnica. Reflete como seus fluxogramas e pseudocódigos foram traduzidos para scripts funcionais em Python. (Python). | [Ver Projeto](./sistema-de-auditoria-de-recursos-corporativos/)
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |

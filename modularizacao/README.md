@@ -51,4 +51,4 @@ Para uma compra de **R$ 137,00** paga com **R$ 200,00**:
 ---
 *Este repositório faz parte de um estudo prático de Engenharia de Soluções Lógicas, focado na eficiência de algoritmos transacionais.*
 
-[Voltar ao início](https://github.com/Landim7/portifolio-pedro-landim)
+[Voltar ao início](https://github.com/Landim7/portfolio-pedro-henrick-araujo-landim)
